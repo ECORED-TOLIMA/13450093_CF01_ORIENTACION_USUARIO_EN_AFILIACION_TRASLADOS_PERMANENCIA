@@ -17,8 +17,8 @@
     .titulo.mb-4(data-aos="flip-up")
       img(src='@/assets/curso/icono.svg', alt='Imagen decorativa')
       h5.mb-0 A.	Usuarios del régimen contributivo
-    p.mb-4 A continuación, se describen sus principales procesos:
-    .row.justify-content-center.mb-4
+    p.mb-5 A continuación, se describen sus principales procesos:
+    .row.justify-content-center.mb-5
       .col-lg-9.position-relative
         .avatar
           figure
@@ -53,32 +53,35 @@
                 li
                   i.fas.fa-angle-right
                   | Tienen derecho a todos los servicios del plan obligatorio.
+    
     .titulo.mb-4(data-aos="flip-up")
       img(src='@/assets/curso/icono.svg', alt='Imagen decorativa')
       h5.mb-0 B.	Usuarios del régimen subsidiado
-    p.mb-4 A continuación, su debida explicación:
+    
+    p.mb-5 A continuación, su debida explicación:
+
     .tarjeta--container.row.mb-5
-      .col-md.tarjeta.color-primario.tarjcone.p-5
+      .col-lg.tarjeta.color-primario.tarjcone.p-lg-5.p-4
         .row.justify-content-center.mb-4
-          .col-5
+          .col-5.col-sm-3.col-5
             figure
               img(src='@/assets/curso/temas/tema6/img6.svg', alt='Texto que describa la imagen')
         .row.justify-content-center.align-items-center
           .col-10
             h4.text-center ¿Quiénes son?
             p Personas en situación de pobreza o vulnerabilidad que no pueden pagar cotizaciones.
-      .col-md.tarjeta.color-secundario.tarjcone.p-5
+      .col-lg.tarjeta.color-secundario.tarjcone.p-lg-5.p-4
         .row.justify-content-center.mb-4
-          .col-5
+          .col-5.col-sm-3.col-5
             figure
               img(src='@/assets/curso/temas/tema6/img7.svg', alt='Texto que describa la imagen')
         .row.justify-content-center.align-items-center
           .col-10
             h4.text-center ¿Cómo acceden?
             p Se afilian a través del Sisbén u otros mecanismos sociales y el Estado financia su cobertura.
-      .col-md.tarjeta.color-acento-contenido.tarjcone.p-5
+      .col-lg.tarjeta.color-acento-contenido.tarjcone.p-lg-5.p-4
         .row.justify-content-center.mb-4
-          .col-5
+          .col-5.col-sm-3.col-5
             figure
               img(src='@/assets/curso/temas/tema6/img8.svg', alt='Texto que describa la imagen')
         .row.justify-content-center.align-items-center
@@ -91,11 +94,13 @@
               li
                 i.fas.fa-angle-right
                 | Acceden a los mismos servicios que en el régimen contributivo, pero financiados con recursos públicos.
+    
     .titulo.mb-4(data-aos="flip-up")
       img(src='@/assets/curso/icono.svg', alt='Imagen decorativa')
       h5.mb-0 C.	Usuarios del Sistema Integral de Rehabilitación (SIR)
-    p.mb-4 Igualmente, se debe tener en cuenta lo siguiente:
-    .row.justify-content-center.mb-4
+    p.mb-5 Igualmente, se debe tener en cuenta lo siguiente:
+
+    .row.justify-content-center.mb-5
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
@@ -108,7 +113,6 @@
               .ubicar
                 h4.mb-3 ¿Quiénes son?
             p.mt-3 Personas con discapacidad o necesidades especiales que requieren atención especializada y rehabilitación.
-
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
@@ -121,7 +125,6 @@
               .ubicar
                 h4.mb-3 ¿Cómo acceden?
             p.mt-3 Mediante el régimen contributivo o el subsidiado, teniendo en cuenta lo descrito en la Ley Estatutaria 1618 de 2013.
-
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
@@ -313,7 +316,7 @@
     .titulo.mb-4(data-aos="flip-up")
       h5.mb-0 •	Las Fuerzas Militares de Colombia 
     p Están conformadas por el Ejército, la Armada y la Fuerza Aérea, y su personal cuenta con un régimen especial de salud que garantiza atención médica diferenciada y beneficios específicos para sus miembros y sus familias.
-    p.mb-4 Estas instituciones tienen un accionar en los temas de salud, los cuales se relacionan a continuación:
+    p.mb-5 Estas instituciones tienen un accionar en los temas de salud, los cuales se relacionan a continuación:
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -416,7 +419,7 @@
     .titulo.mb-4(data-aos="flip-up")
       h5.mb-0 •	Los trabajadores de Ecopetrol
     p Cuentan con un régimen de salud y beneficios sociales específicos, gestionados principalmente, a través del sistema de seguridad social y los convenios que la empresa tiene con entidades prestadoras de servicios de salud (IPS).
-    p.mb-4 Igualmente, como los anteriores regímenes descritos, poseen una serie de procesos, los cuales son:
+    p.mb-5 Igualmente, como los anteriores regímenes descritos, poseen una serie de procesos, los cuales son:
     .tarjeta.tarjeta--BG06.p-5.mb-5(data-aos="zoom-in")
       SlyderA(tipo="b" data-aos="zoom-in")
         .row.justify-content-center
@@ -475,34 +478,34 @@
             img(src='@/assets/curso/temas/tema6/img29.png' alt="Imagen decorativa")
     p.mb-4 Igualmente, dentro de este régimen, se encuentran otros beneficios sociales, como son:
 
-    .tarjeta--container.row.mb-4
-      .col-lg.tarjeta.color-primario.tarjcone.p-5
+    .tarjeta--container.row.mb-5
+      .col-lg.tarjeta.color-primario.tarjcone.p-lg-5.p-4
         .row.justify-content-center.mb-4
-          .col-5
+          .col-lg-5.col-sm-3.col-5
             figure
               img(src='@/assets/curso/temas/tema6/img31.svg', alt='Texto que describa la imagen')
         .row.justify-content-center.align-items-center
           .col-10
             h4.text-center Pensiones
-            p Los trabajadores tienen derecho a pensiones por jubilación o retiro según las leyes vigentes.
-      .col-lg.tarjeta.color-secundario.tarjcone.p-5
+            p.mb-0 Los trabajadores tienen derecho a pensiones por jubilación o retiro según las leyes vigentes.
+      .col-lg.tarjeta.color-secundario.tarjcone.p-lg-5.p-4
         .row.justify-content-center.mb-4
-          .col-5
+          .col-lg-5.col-sm-3.col-5
             figure
               img(src='@/assets/curso/temas/tema6/img32.svg', alt='Texto que describa la imagen')
         .row.justify-content-center.align-items-center
           .col-10
             h4.text-center Capacitación y desarrollo
-            p Programas internos para formación profesional.
-      .col-lg.tarjeta.color-acento-contenido.tarjcone.p-5
+            p.mb-0 Programas internos para formación profesional.
+      .col-lg.tarjeta.color-acento-contenido.tarjcone.p-lg-5.p-4
         .row.justify-content-center.mb-4
-          .col-5
+          .col-lg-5.col-sm-3.col-5
             figure
               img(src='@/assets/curso/temas/tema6/img33.svg', alt='Texto que describa la imagen')
         .row.justify-content-center.align-items-center
           .col-10
             h4.text-center  Seguridad social integral
-            p Incluye salud, pensiones, riesgos laborales y prestaciones sociales.
+            p.mb-0 Incluye salud, pensiones, riesgos laborales y prestaciones sociales.
 
     p.mb-4 La siguiente tabla, resume los tipos de usuarios con características y los ejemplifica:
     .titulo-sexto.color-acento-contenido.offset-0(data-aos="zoom-in")
@@ -537,7 +540,7 @@
     #t_6_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 6.1	Marco normativo del sistema de salud colombiano
     
-    .tarjeta-BG02.lg-px-5.px-5
+    .tarjeta-BG02.px-md-5.px-4
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-11
           p Aunque es un marco muy amplio, debido a las constantes modificaciones que ha sufrido desde su promulgación en 1993, algunas claves para entender su funcionamiento incluyen:
