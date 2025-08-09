@@ -65,7 +65,7 @@
           .row
             .col-lg-6.order-lg-1.order-2
               h4 Población vulnerable y en situación de pobreza
-              p Incluyen a todos los individuos que reciben atención médica, preventiva, de recuperación o rehabilitación en hospitales, clínicas, centros de salud, consultorios y otros establecimientos autorizados. Son quienes utilizan los servicios para mantener o recuperar su salud.
+              p Son aquellos que, por su condición socioeconómica, dependen del régimen subsidiado y del apoyo estatal para acceder a los servicios de salud. La protección de sus derechos y garantizar su acceso oportuno y de calidad es uno de los principios rectores del sistema.
             .col-lg-6.order-lg-2.order-2.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema4/img5.png', alt='Texto que describa la imagen')

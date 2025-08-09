@@ -105,7 +105,7 @@
           br
           | Tener claro cómo funciona el sistema y sus leyes, fortalece la relación entre usuarios y prestadores, contribuye a una atención más justa y eficiente y asegura que las personas reciban la protección en salud que les corresponde por derecho.
     
-    p.mb-5 Las siguientes son las principales decisiones que pueden tomarse, a partir del del conocimiento del Sistema General de Seguridad Social en Salud y su marco normativo:
+    p.mb-5 Las siguientes son las principales decisiones que pueden tomarse, a partir del conocimiento del Sistema General de Seguridad Social en Salud y su marco normativo:
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.mb-4(data-aos="fade-left")

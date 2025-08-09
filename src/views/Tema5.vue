@@ -12,7 +12,7 @@
         :style="{'background-image':`url(${require('@/assets/curso/temas/tema5/img1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0  En palabras de Gañan Echavarría (2013), “el derecho a la salud implica la garantía real a gozar de un estado físico, mental, emocional y social que permita al ser humano desarrollar en forma digna y al máximo sus potencialidades, en bien de sí mismo, de su familia y de la colectividad en general”. Estas connotaciones están amparadas en los artículos constitucionales 44 y 49 y que fueron desarrollados en la Ley Estatutaria de Salud 1751 de 2015, regulándose como un derecho fundamental, por lo cual es Estado colombiano y se ve obligado a garantizar la prestación del servicio de salud, bajo estándares de calidad, oportunidad, solidaridad, eficiencia, integralidad y demás principios que la fundan.
+        p.mb-0  En palabras de Gañán Echavarría (2013), “el derecho a la salud implica la garantía real a gozar de un estado físico, mental, emocional y social que permita al ser humano desarrollar en forma digna y al máximo sus potencialidades, en bien de sí mismo, de su familia y de la colectividad en general”. Estas connotaciones están amparadas en los artículos constitucionales 44 y 49 y que fueron desarrollados en la Ley Estatutaria de Salud 1751 de 2015, regulándose como un derecho fundamental, por lo cual es Estado colombiano y se ve obligado a garantizar la prestación del servicio de salud, bajo estándares de calidad, oportunidad, solidaridad, eficiencia, integralidad y demás principios que la fundan.
 
     separador
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
@@ -536,7 +536,7 @@
     #t_5_6.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 5.6	Acceso al Sistema General de Seguridad Social en Salud (SGSSS)
     p En Colombia, es el proceso mediante el cual las personas pueden beneficiarse de los servicios de salud garantizados por la ley. Este acceso está regulado para asegurar que toda la población, independientemente de su condición socioeconómica, pueda recibir atención oportuna y de calidad.
-    p.mb-5 El acceso al sistema esta mediado por:
+    p.mb-5 El acceso al sistema está mediado por:
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/icono.svg', alt='Imagen decorativa')
       h5.mb-0 A. Afiliación

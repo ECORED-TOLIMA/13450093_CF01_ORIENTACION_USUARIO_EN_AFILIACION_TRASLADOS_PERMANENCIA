@@ -113,7 +113,7 @@ export default {
         subMenu: [
           {
             numero: '6.1',
-            titulo: 'Usuarios internos del sistema de salud colombiano',
+            titulo: 'Marco normativo del sistema de salud colombiano',
             hash: 't_6_1',
           },
         ],
@@ -150,7 +150,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA_01_00000000_DU.pdf',
+        download: 'downloads/CFA_01_13450093_DU.pdf',
       },
       {
         icono: 'fas fa-download',
