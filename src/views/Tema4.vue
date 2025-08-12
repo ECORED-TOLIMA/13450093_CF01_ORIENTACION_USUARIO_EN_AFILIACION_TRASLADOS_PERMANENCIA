@@ -40,7 +40,7 @@
     
     separador
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2 4.2 Usuarios internos del sistema de salud colombiano
+      h2 4.2 Usuarios externos del sistema de salud colombiano
 
     p Son todas las personas que, aunque no participan directamente en la gestión o prestación de los servicios, son quienes reciben la atención y los beneficios del SGSSS. 
     p.mb-5 Ellos son el centro de todo el sistema, ya que su bienestar y derechos son la razón de ser de la estructura de salud y se clasifican de la siguiente manera:
