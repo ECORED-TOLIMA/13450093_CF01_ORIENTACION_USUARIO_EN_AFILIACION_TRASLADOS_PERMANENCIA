@@ -293,21 +293,21 @@
     p.mb-4 Por último, se relacionan las características específicas de este régimen:
     .row.justify-content-center.mb-5
       .col-lg-4.mb-4.mb-lg-0
-        .crd2.crd2--grayGrad(data-aos="flip-left")
+        .crd2.crd2--grayGrad.h-100(data-aos="flip-left")
           .bottomCircle.mb-5
             figure
               img(src="@/assets/curso/temas/tema6/img17.svg", alt="alt").img90.m-auto
           h5.text-center Cobertura diferenciada
           p.text-center.mb-0 Diseñada para responder a las necesidades particulares del personal policial, incluyendo atención en situaciones relacionadas con riesgos laborales.
       .col-lg-4.mb-4.mb-lg-0
-        .crd2.crd2--grayGrad(data-aos="flip-left")
+        .crd2.crd2--grayGrad.h-100(data-aos="flip-left")
           .bottomCircle.mb-5
             figure
               img(src="@/assets/curso/temas/tema6/img18.svg", alt="alt").img90.m-auto
           h5.text-center Acceso preferencial
           p.text-center.mb-0 Los miembros de la policía tienen prioridad en la asignación de citas y servicios médicos en las instituciones afiliadas.
       .col-lg-4.mb-4.mb-lg-0
-        .crd2.crd2--grayGrad(data-aos="flip-left")
+        .crd2.crd2--grayGrad.h-100(data-aos="flip-left")
           .bottomCircle.mb-5
             figure
               img(src="@/assets/curso/temas/tema6/img19.svg", alt="alt").img90.m-auto

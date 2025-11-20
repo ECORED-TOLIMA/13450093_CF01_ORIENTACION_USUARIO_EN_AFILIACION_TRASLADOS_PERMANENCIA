@@ -4,7 +4,6 @@ export default {
     descripcionCurso:
       'Este componente introduce a los aprendices en los conceptos fundamentales del marco normativo de la seguridad social en salud, proporcionando una base sólida sobre su importancia en el desarrollo de las actividades. Se explorarán los principios del derecho y las normas que rigen la seguridad social en salud de Colombia.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
